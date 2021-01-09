@@ -1,0 +1,10 @@
+logs/*
+**/admin.js
+modules/templates-module.js
+node_modules/**/*
+/configs.js
+/*.zip
+/*.exe
+/*.log
+/*.json
+/.git/*
